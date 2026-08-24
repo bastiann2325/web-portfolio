@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "title": "Juan Sebastián Mejía — Desarrollador de Software"
+  },
+  "nav": {
+    "about": "Sobre mí",
+    "experience": "Experiencia",
+    "skills": "Skills",
+    "projects": "Proyectos",
+    "contact": "Contacto",
+    "menuLabel": "Menú",
+    "languageLabel": "Selector de idioma"
+  },
+  "hero": {
+    "eyebrow": "Hola, soy",
+    "name": "Juan Sebastián",
+    "role": "Desarrollador de Software",
+    "tagline": "Construyo aplicaciones y plataformas web con React, JavaScript y Node.js, integrando inteligencia artificial, APIs y analítica para crear experiencias completas.",
+    "location": "Colombia",
+    "cta": "Hablemos",
+    "secondaryCta": "Ver experiencia",
+    "avatarAlt": "Ilustración de un desarrollador de software"
+  },
+  "about": {
+    "title": "Sobre mí",
+    "paragraph": "Soy un Desarrollador de Software con experiencia construyendo aplicaciones y plataformas web utilizando React, JavaScript, Node.js y WordPress. He desarrollado soluciones de atención en tiempo real impulsadas por inteligencia artificial, integrando APIs, CRMs y lógica de backend para ofrecer experiencias web completas. También he implementado soluciones de analítica con Google Tag Manager, Google Analytics 4 y Looker Studio para transformar datos en información útil para el negocio. Disfruto siempre el aprender nuevas tecnologías e implementar soluciones que aporten valor.",
+    "languagesTitle": "Idiomas",
+    "languages": [
+      { "code": "es", "name": "Español", "level": "Nativo" },
+      { "code": "en", "name": "Inglés", "level": "B1 · Intermedio" }
+    ]
+  },
+  "experience": {
+    "title": "Experiencia",
+    "techLabel": "Tecnologías usadas",
+    "items": [
+      {
+        "company": "Innteligen",
+        "location": "Colombia",
+        "role": "Software Developer",
+        "period": "Julio 2025 — Agosto 2026",
+        "highlights": [
+          {
+            "title": "Widget de Chat Embebible con IA",
+            "description": "Construí el frontend de un widget de chat con inteligencia artificial, embebible en cualquier sitio web mediante un script configurable, permitiendo a las empresas integrar un canal de atención al cliente inteligente sin desarrollo adicional de su parte.",
+            "tech": ["React", "JavaScript", "WebSockets", "Styled Components", "Git"]
+          },
+          {
+            "title": "Worker Console — Plataforma de Atención en Tiempo Real",
+            "description": "Diseñé el frontend de una aplicación de mensajería en tiempo real, estilo WhatsApp, para que asesores y supervisores gestionaran conversaciones, colas de atención, transferencias, SLAs y métricas de desempeño.",
+            "tech": ["React", "JavaScript", "WebSockets", "Styled Components", "Git"]
+          },
+          {
+            "title": "Reconstrucción de Plataforma Web para Feria Educativa Internacional",
+            "description": "Lideré la reconstrucción de una plataforma web de ferias educativas internacionales, implementando la interfaz a partir de diseños en Figma sobre WordPress, con plantillas dinámicas, componentes y formularios integrados a CRMs como Bitrix 24.",
+            "tech": ["WordPress", "Elementor Pro", "JetEngine", "HTML", "CSS", "Figma"]
+          },
+          {
+            "title": "Implementación de Analítica Web y Reportes",
+            "description": "Implementé un ecosistema de analítica configurando Google Tag Manager y Google Analytics 4, y construí reportes en Looker Studio con visualizaciones y métricas para generar insights de negocio.",
+            "tech": ["Google Tag Manager", "Google Analytics 4", "Looker Studio"]
+          }
+        ]
+      },
+      {
+        "company": "SENA",
+        "location": "Colombia",
+        "role": "Tutor de Programación",
+        "period": "Abril 2025 — Julio 2025",
+        "highlights": [
+          {
+            "title": "Docencia y material didáctico",
+            "description": "Dicté clases y asesorías en MySQL, Oracle, Laravel, JavaScript y Algoritmia a grupos de aprendices, y apoyé en la creación de guías y material didáctico.",
+            "tech": ["JavaScript", "MySQL", "Oracle", "Laravel"]
+          }
+        ]
+      }
+    ]
+  },
+  "skills": {
+    "title": "Stack tecnológico",
+    "subtitle": "Tecnologías que uso día a día, agrupadas por dónde las aplico.",
+    "categories": [
+      {
+        "name": "Frontend",
+        "items": ["HTML", "CSS", "JavaScript", "React"]
+      },
+      {
+        "name": "Backend & datos",
+        "items": ["Node.js", "Laravel", "MySQL", "PostgreSQL"]
+      },
+      {
+        "name": "WordPress & CMS",
+        "items": ["WordPress", "Elementor Pro", "JetEngine"]
+      },
+      {
+        "name": "Analítica",
+        "items": ["Google Tag Manager", "Google Analytics 4", "Looker Studio"]
+      },
+      {
+        "name": "Herramientas",
+        "items": ["Git", "GitHub", "Figma", "Postman", "Apidog", "Trello", "Azure DevOps"]
+      }
+    ]
+  },
+  "projects": {
+    "title": "Proyectos",
+    "emptyMessage": "Estoy preparando estudios de caso de mis proyectos recientes. Vuelve pronto."
+  },
+  "contact": {
+    "title": "Contacto",
+    "subtitle": "¿Tienes un proyecto en mente o una oportunidad para conversar? Escríbeme.",
+    "form": {
+      "name": "Nombre",
+      "email": "Correo",
+      "message": "Mensaje",
+      "submit": "Enviar mensaje",
+      "sending": "Enviando...",
+      "success": "Mensaje enviado. Te responderé pronto.",
+      "error": "Algo salió mal. Intenta de nuevo o escríbeme directo."
+    },
+    "social": {
+      "linkedin": "LinkedIn",
+      "github": "GitHub"
+    },
+    "directEmail": "O escríbeme directo a"
+  },
+  "footer": {
+    "rights": "Todos los derechos reservados."
+  }
+}

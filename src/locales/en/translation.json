@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "title": "Juan Sebastian Mejia — Software Developer"
+  },
+  "nav": {
+    "about": "About",
+    "experience": "Experience",
+    "skills": "Skills",
+    "projects": "Projects",
+    "contact": "Contact",
+    "menuLabel": "Menu",
+    "languageLabel": "Language selector"
+  },
+  "hero": {
+    "eyebrow": "Hi, I'm",
+    "name": "Juan Sebastian",
+    "role": "Software Developer",
+    "tagline": "I build web applications and platforms with React, JavaScript and Node.js, integrating AI, APIs and analytics into complete experiences.",
+    "location": "Colombia",
+    "cta": "Let's talk",
+    "secondaryCta": "See experience",
+    "avatarAlt": "Illustration of a software developer"
+  },
+  "about": {
+    "title": "About me",
+    "paragraph": "I am a Software Developer with experience building web applications and platforms using React, JavaScript, Node.js, and WordPress. I have developed AI-powered real-time support solutions, integrating APIs, CRMs, and backend logic to deliver complete web experiences. I have also implemented analytics solutions with Google Tag Manager, Google Analytics 4, and Looker Studio to turn data into actionable business insights. I always enjoy learning new technologies and implementing solutions that add value.",
+    "languagesTitle": "Languages",
+    "languages": [
+      { "code": "es", "name": "Spanish", "level": "Native" },
+      { "code": "en", "name": "English", "level": "B1 · Intermediate" }
+    ]
+  },
+  "experience": {
+    "title": "Experience",
+    "techLabel": "Technologies used",
+    "items": [
+      {
+        "company": "Innteligen",
+        "location": "Colombia",
+        "role": "Software Developer",
+        "period": "July 2025 — August 2026",
+        "highlights": [
+          {
+            "title": "Embeddable AI Chat Widget",
+            "description": "I built the frontend of an AI-powered chat widget, embeddable on any website through a configurable script, allowing companies to integrate an intelligent support channel without any additional development on their part.",
+            "tech": ["React", "JavaScript", "WebSockets", "Styled Components", "Git"]
+          },
+          {
+            "title": "Worker Console — Real-Time Support Platform",
+            "description": "I designed the frontend of a WhatsApp-style real-time messaging application, allowing agents and supervisors to manage conversations, support queues, transfers, SLAs and performance metrics.",
+            "tech": ["React", "JavaScript", "WebSockets", "Styled Components", "Git"]
+          },
+          {
+            "title": "Web Platform Rebuild for International Educational Fair",
+            "description": "I led the rebuild of an international educational fair web platform, implementing the interface from Figma designs on WordPress, with dynamic templates, components and forms integrated with CRMs such as Bitrix 24.",
+            "tech": ["WordPress", "Elementor Pro", "JetEngine", "HTML", "CSS", "Figma"]
+          },
+          {
+            "title": "Web Analytics Implementation and Reporting",
+            "description": "I implemented an analytics ecosystem by configuring Google Tag Manager and Google Analytics 4, and built Looker Studio reports with visualizations and metrics to generate business insights.",
+            "tech": ["Google Tag Manager", "Google Analytics 4", "Looker Studio"]
+          }
+        ]
+      },
+      {
+        "company": "SENA",
+        "location": "Colombia",
+        "role": "Programming Tutor",
+        "period": "April 2025 — July 2025",
+        "highlights": [
+          {
+            "title": "Teaching and instructional materials",
+            "description": "I taught classes and provided guidance on MySQL, Oracle, Laravel, JavaScript and Algorithms to groups of trainees, and helped create guides and instructional materials.",
+            "tech": ["JavaScript", "MySQL", "Oracle", "Laravel"]
+          }
+        ]
+      }
+    ]
+  },
+  "skills": {
+    "title": "Tech stack",
+    "subtitle": "Technologies I use day to day, grouped by where I apply them.",
+    "categories": [
+      {
+        "name": "Frontend",
+        "items": ["HTML", "CSS", "JavaScript", "React"]
+      },
+      {
+        "name": "Backend & data",
+        "items": ["Node.js", "Laravel", "MySQL", "PostgreSQL"]
+      },
+      {
+        "name": "WordPress & CMS",
+        "items": ["WordPress", "Elementor Pro", "JetEngine"]
+      },
+      {
+        "name": "Analytics",
+        "items": ["Google Tag Manager", "Google Analytics 4", "Looker Studio"]
+      },
+      {
+        "name": "Tools",
+        "items": ["Git", "GitHub", "Figma", "Postman", "Apidog", "Trello", "Azure DevOps"]
+      }
+    ]
+  },
+  "projects": {
+    "title": "Projects",
+    "emptyMessage": "I'm putting together case studies of my recent projects. Check back soon."
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Have a project in mind or an opportunity to talk about? Reach out.",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "submit": "Send message",
+      "sending": "Sending...",
+      "success": "Message sent. I'll get back to you soon.",
+      "error": "Something went wrong. Try again or email me directly."
+    },
+    "social": {
+      "linkedin": "LinkedIn",
+      "github": "GitHub"
+    },
+    "directEmail": "Or email me directly at"
+  },
+  "footer": {
+    "rights": "All rights reserved."
+  }
+}
