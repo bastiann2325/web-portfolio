@@ -1,6 +1,5 @@
 import { useTranslation } from "react-i18next";
 import { Container, SectionTitle, Chip } from "../../atoms";
-import { getTechIcon } from "../../../utils/techIcons";
 import {
   Section,
   Timeline,
@@ -54,9 +53,7 @@ const ExperienceSection = () => {
                     <TechLabel>{t("experience.techLabel")}</TechLabel>
                     <TechRow>
                       {highlight.tech.map((tech) => (
-                        <Chip key={tech} color={getTechIcon(tech)?.color}>
-                          {tech}
-                        </Chip>
+                        <Chip key={tech}>{tech}</Chip>
                       ))}
                     </TechRow>
                   </Highlight>
